@@ -24,4 +24,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem "nokogiri", "~> 1.13"  # Or try a higher version if needed
+
 end
+
+gem "webrick", "~> 1.8"
