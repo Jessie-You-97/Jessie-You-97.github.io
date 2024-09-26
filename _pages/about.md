@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a second-year computer science master's student at Georgia Tech, with a strong academic foundation in bioinformatics and medical research. Before pursuing computer science, I earned a Master’s degree in Bioinformatics from the MD Anderson Cancer Center and an M.B.B.S. degree (equivalent to an M.D.) from Tongji University.
-My research is broadly focused on the intersection of bioinformatics, AI/ML in the medical domain, with a particular emphasis on cancer genomics and cardiovascular disease. I am especially interested in the applications of LLM in medicine, exploring how advanced computational tools can improve diagnostics, treatments, and patient outcomes.
+My research is broadly focused on the intersection of bioinformatics, AI/ML in the medical domain, with a particular emphasis on cancer genomics and cardiovascular disease. I am also interested in the applications of LLM in medicine, exploring how advanced computational tools can improve diagnostics, treatments, and patient outcomes.
 
-I have published 5 papers in biomedical research. You can explore my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=-CBGDcUAAAAJ&hl=en). In addition, I have several AI/ML conference papers currently under review at AAAI and WSDM.
+I have published 5 papers in biomedical research. You can explore my full list of publications on [Google Scholar](https://scholar.google.com/citations?user=-CBGDcUAAAAJ&hl=en). In addition, I have several co-author AI/ML conference papers currently under review at AAAI and WSDM.
 
 
 
